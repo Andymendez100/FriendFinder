@@ -1,6 +1,6 @@
 const friends = [{
     "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo": "https://images.pexels.com/photos/1345191/pexels-photo-1345191.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "scores": [
         5,
         1,
@@ -14,4 +14,6 @@ const friends = [{
         1
     ]
 }
-]
+];
+
+module.exports = friends;
